@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Og1trYvQzYUq6rcrbMgb4YsbJY3i4iYuoRM6kTIAFnpxhGOL7gWtqURYfK8yx1qlld8ChzQIeOsfzwg0udma5A==",
+  "success": true,
+  "projectFilePath": "/Users/dinarkalimullin/Documents/dev/quox/quox-backend/quox-backend/quox-backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/dinarkalimullin/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "/Users/dinarkalimullin/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/dinarkalimullin/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/dinarkalimullin/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/dinarkalimullin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/dinarkalimullin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/dinarkalimullin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
