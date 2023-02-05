@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quox-backend", "quox-backend\quox-backend.csproj", "{BF5EECC0-8E46-458E-A3AD-040D104B7A5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quox-backend", "quox-backend.csproj", "{BF5EECC0-8E46-458E-A3AD-040D104B7A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
